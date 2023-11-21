@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/framersidebar/static/css/main.043d2eab.css",
+    "main.js": "/framersidebar/static/js/main.45ccb3a9.js",
+    "static/js/787.c1c2415d.chunk.js": "/framersidebar/static/js/787.c1c2415d.chunk.js",
+    "index.html": "/framersidebar/index.html",
+    "main.043d2eab.css.map": "/framersidebar/static/css/main.043d2eab.css.map",
+    "main.45ccb3a9.js.map": "/framersidebar/static/js/main.45ccb3a9.js.map",
+    "787.c1c2415d.chunk.js.map": "/framersidebar/static/js/787.c1c2415d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.043d2eab.css",
+    "static/js/main.45ccb3a9.js"
+  ]
+}
